@@ -169,3 +169,4 @@ def dashboard(platform, genre, interval):
 
 if __name__ == "__main__":
     app.run_server(debug=True)
+
